@@ -1,4 +1,7 @@
 # imgdir2pdf
+[![MIT
+licensed](https://img.shields.io/github/license/modbrin/imgdir2pdf)](https://raw.githubusercontent.com/modbrin/imgdir2pdf/master/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/modbrin/imgdir2pdf)](https://goreportcard.com/report/github.com/modbrin/imgdir2pdf)
 
 Small utility for converting series of images into single pdf.
 
