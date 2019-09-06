@@ -7,7 +7,7 @@ Small utility for converting series of images into single pdf.
 
 ## Download
 
-Get it in releases. Windows and Linux versions are provided.
+Get it in [releases](https://github.com/modbrin/imgdir2pdf/releases). Windows and Linux versions are provided.
 
 ## How to use
 ```shell script
